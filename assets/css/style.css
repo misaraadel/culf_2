@@ -1204,7 +1204,7 @@ header .content p {
 }
 
 header .content .custom-btn::after {
-  background-color: #f7941d !important;
+  background-color: #F7941D !important;
 }
 
 header .image-content {
@@ -1258,7 +1258,7 @@ header .image-content img {
   position: absolute !important;
   width: 100%;
   height: 0%;
-  background-color: #f7941d;
+  background-color: #F7941D;
   top: 0;
   left: 0;
   right: 0;
@@ -1281,8 +1281,6 @@ header .image-content img {
      object-position: center;
   -o-object-fit: contain;
      object-fit: contain;
-  -webkit-filter: invert(63%) sepia(75%) saturate(338%) hue-rotate(142deg) brightness(83%) contrast(90%);
-          filter: invert(63%) sepia(75%) saturate(338%) hue-rotate(142deg) brightness(83%) contrast(90%);
 }
 
 .about-us .box .box-content {
@@ -1374,7 +1372,7 @@ header .image-content img {
 }
 
 .services .content h4 {
-  color: #f7941d;
+  color: #F7941D;
   font-size: 25px;
   font-weight: 800;
   margin: 0px;
@@ -1453,7 +1451,7 @@ header .image-content img {
   position: absolute !important;
   width: 100%;
   height: 0%;
-  background-color: #f7941d;
+  background-color: #F7941D;
   top: 0;
   left: 0;
   right: 0;
